@@ -7,13 +7,13 @@ Implemented as a Cytoscape "meta-app".
 
 Includes:
 
- * EnrichmentMap 2.1.0
- * AutoAnnotate 1.0.0
- * WordCloud 3.1.0
- * clusterMaker2;0.9.5
+ * EnrichmentMap - 2.1.0
+ * AutoAnnotate - 1.0.0
+ * WordCloud - 3.1.0
+ * clusterMaker2 - 0.9.5
 
 Note:
 
- * Versions listed are minimum required version. Cytoscape will automatically install the latest version.
- * AutoAnnotate already depends on WordCloud, but WordCloud is explicitly listed in the collection for clarity.
+ * Versions listed are the minimum required. Cytoscape will automatically install the latest version.
+ * AutoAnnotate already depends on WordCloud, but WordCloud is explicitly listed for clarity.
 
